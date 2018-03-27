@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-gb"
-title = "{TITLE}"
+title = "Modern Thai Food"
 
 enableRobotsTXT = true
 disableAliases = true

@@ -1,0 +1,8 @@
+body {
+    background-color: $background;
+    font-family: $body-font-family;
+    font-size: $body-font-size;
+    max-width: $page-width;
+    margin: 0 auto;
+    padding: $page-gutter;
+}
